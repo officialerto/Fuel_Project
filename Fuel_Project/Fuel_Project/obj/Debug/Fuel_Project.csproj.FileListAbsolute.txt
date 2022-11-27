@@ -1,0 +1,7 @@
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\bin\Debug\Fuel_Project.exe.config
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\bin\Debug\Fuel_Project.exe
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\bin\Debug\Fuel_Project.pdb
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\obj\Debug\Fuel_Project.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\obj\Debug\Fuel_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\obj\Debug\Fuel_Project.exe
+C:\Users\Ertugrul\source\repos\Fuel_Project\Fuel_Project\obj\Debug\Fuel_Project.pdb
